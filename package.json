@@ -1,0 +1,23 @@
+{
+  "name": "nice-ip",
+  "version": "1.0.0",
+  "description": "IP library for JS",
+  "main": "nice-ip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "address",
+    "ip"
+  ],
+  "author": "makepost <makepost@firemail.cc>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makepost/nice-ip.git"
+  },
+  "bugs": {
+    "url": "https://github.com/makepost/nice-ip/issues"
+  },
+  "homepage": "https://github.com/makepost/nice-ip#readme"
+}
