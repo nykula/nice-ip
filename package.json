@@ -1,6 +1,6 @@
 {
   "name": "nice-ip",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "IP library for JS",
   "main": "nice-ip",
   "types": "nice-ip",
