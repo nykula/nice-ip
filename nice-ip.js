@@ -121,9 +121,11 @@
     nicePart6,
   };
 
-  if (typeof window === 'undefined') {
+  if (typeof module !== 'undefined') {
     module.exports = niceIp;
-  } else {
+  }
+
+  if (typeof window !== 'undefined') {
     window.niceIp = niceIp;
   }
 })();
