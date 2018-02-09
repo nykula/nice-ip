@@ -1,12 +1,12 @@
-export function bin(ip: string, prefix?: string): string;
+export function bin(ip: string, prefix?: number): string;
 
-export function bin6(ip: string, prefix?: string): string;
+export function bin6(ip: string, prefix?: number): string;
 
 export function binPart6(x: string): string;
 
 export function expand6(ip: string): string;
 
-export function bin4(ip: string, prefix?: string): string;
+export function bin4(ip: string, prefix?: number): string;
 
 export function binPart4(x: string): string;
 
